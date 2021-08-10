@@ -18,5 +18,7 @@ Feel free to reach out to me! (❁´◡`❁)🤗<br/>
   <a href="#">Website</a> ||
 
 </div>
+
+| Feel free to fork and use it for your coding practices! 😃  I would _really_ appreciate a reference to this repo, These notes and code snippets make one a better learner I believe 💪🏼 . Lets be a cohort of Awesome Coders and share the immortal knowledge forever🌏 Thank you and have fun!   |
  
 |---|
