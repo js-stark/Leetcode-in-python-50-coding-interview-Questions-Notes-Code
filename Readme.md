@@ -21,3 +21,46 @@ Feel free to reach out to me! (❁´◡`❁)🤗<br/>
 
 | Feel free to fork and use it for your coding practices! 😃  I would _really_ appreciate a reference to this repo, These notes and code snippets make one a better learner I believe 💪🏼 . Lets be a cohort of Awesome Coders and share the immortal knowledge forever🌏 Thank you and have fun!   |
 |---|
+
+---
+###### 1. What's the output
+
+<details>
+  <summary>
+    ```
+    const shape = {
+      radius: 10,
+      diameter() {
+        return this.radius * 2;
+      },
+      perimeter: () => 2 * Math.PI * this.radius,
+    };
+
+    console.log(shape.diameter());
+    console.log(shape.perimeter()); ```
+  </summary>
+</details>
+
+```
+const shape = {
+  radius: 10,
+  diameter() {
+    return this.radius * 2;
+  },
+  perimeter: () => 2 * Math.PI * this.radius,
+};
+
+console.log(shape.diameter());
+console.log(shape.perimeter());
+
+```
+
+
+
+
+
+
+
+
+
+
