@@ -13,9 +13,9 @@ From Basic to Advanced Refresh your Python implementations of Leetcodes with the
 
 Feel free to reach out to me! (❁´◡`❁)🤗<br/>
   <a href="https://www.instagram.com/jayasoruban1112/">Instagram</a> || 
-  <a href="https://www.instagram.com/jayasoruban1112/">Instagram</a> || 
-  <a href="https://www.instagram.com/jayasoruban1112/">Instagram</a> ||
-  <a href="https://www.instagram.com/jayasoruban1112/">Instagram</a> ||
+  <a href="https://twitter.com/jayasoruban">Twitter</a> || 
+  <a href="https://in.linkedin.com/in/jayasoruban-js-67b35b1bb">LinkedIn</a> ||
+  <a href="#">Website</a> ||
 
 </div>
  
