@@ -1,5 +1,9 @@
 <div align="center" float=""left>
-  <img height="60" src="https://img.icons8.com/color/344/python.png"> <p>+</p><img height="60" src="https://img.icons8.com/color/344/javascript.png">
+
+  <p float="left">
+  <img height="60" src="https://img.icons8.com/color/344/python.png" />
+  <img height="60" src="https://img.icons8.com/color/344/javascript.png" /> 
+  </p>
   <h1>50 Awesome Leetcode In Python + Javascript</h1>
   
  ---
